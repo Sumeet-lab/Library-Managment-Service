@@ -71,7 +71,7 @@ Flask API for Library Managment wiht CRUD operations. Deployed at Railway Hostin
 ```http
   Member JSON
 
-  {"name":"ABC", "membership_type":"A"}
+  {"name":"ABC", "available": true,"membership_type":"A"}
 ```
 
 
